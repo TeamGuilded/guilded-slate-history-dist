@@ -1,1 +1,3 @@
-module.exports = require("slate-history");
+module.exports = {
+  SlateHistory: require("slate-history")
+}
